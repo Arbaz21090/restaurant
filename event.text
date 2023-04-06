@@ -1,0 +1,6 @@
+const handlekey=(event)=>{
+if(event.key=='enter'){
+    addData()
+}
+console.log('key pressed')
+}
